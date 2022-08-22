@@ -15,3 +15,6 @@ class Deck:
 
         self.dealtCards.append(card)
         return card
+
+    def shuffle():
+        dealtCards = []
